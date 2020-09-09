@@ -3,7 +3,8 @@
 Hello !
 
 This is the source code for the real-time Quantum Monte Carlo project formulated
-in the LO basis, as part of the TRIQS project: github.com/TRIQS/triqs.
+in the LO basis, as part of the TRIQS project: https://github.com/TRIQS/triqs.
+It requires the 2.2.x version.
 
 This project was achieved together with Priyanka Seth, Michel
 Ferrero and Olivier Parcollet. You can find the original research paper describing
