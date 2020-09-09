@@ -1,0 +1,9 @@
+version = "@CTDET_LO_VERSION@"
+triqs_hash = "@TRIQS_GIT_HASH@"
+ctdet_lo_hash = "@CTDET_LO_GIT_HASH@"
+
+def show_version():
+  print "\nYou are using the ultra-secret CTDET LO Keldysh solver version %s\n"%version
+
+def show_git_hash():
+  print "\nYou are using the CTDET LO Keldysh solver git hash %s based on triqs git hash %s\n"%(ctdet_lo_hash, triqs_hash)
